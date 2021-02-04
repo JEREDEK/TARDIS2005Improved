@@ -1,0 +1,11 @@
+{
+	"title"		:	"TARDIS Rewrite",
+	"type"		:	"vehicle",
+	"tags"		:	[ "roleplay", "movie" ],
+	"ignore"	:
+	[
+		"*.md",
+		"*.txt",
+		"*.git*",
+	]
+}
