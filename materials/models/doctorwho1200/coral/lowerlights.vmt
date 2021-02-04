@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/lowerlights"
+	"$surfaceprop" "carpet"
+	"$nodecal" "1"
+	"$nocull" "1"
+	"$selfillum" 1
+        "$selfillummask" "models/doctorwho1200/coral/white"
+}

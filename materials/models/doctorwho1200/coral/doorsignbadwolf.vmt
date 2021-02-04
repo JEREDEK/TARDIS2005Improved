@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/doorsignbadwolf"
+	"$surfaceprop" "Metal"
+	"$nodecal" "1"
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/policeboxsign"
+	"$surfaceprop" "Glass"
+	"$selfillum" 1
+        "$selfillummask" "models/doctorwho1200/coral/white"
+	"$envmap" "models/doctorwho1200/coral/environment"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$nodecal" "1"
+}

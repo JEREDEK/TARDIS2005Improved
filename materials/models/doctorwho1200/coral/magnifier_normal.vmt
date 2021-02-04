@@ -1,0 +1,16 @@
+"Refract"
+{
+ 	"$model" 1
+	"$nodecal" 1
+ 	"$refractamount" ".06"
+	"$REFRACTTINT" "{246 250 255}"
+	"$scale" "[1 1]"
+ 	"$dudvmap" "models/doctorwho1200/coral/magnifier_dudv"
+	"$normalmap" "models/doctorwho1200/coral/magnifier_normal"
+	"Refract_DX60"
+	{
+		"$fallbackmaterial" "models/doctorwho1200/coral/magnifier_DX60"
+	}
+
+}
+

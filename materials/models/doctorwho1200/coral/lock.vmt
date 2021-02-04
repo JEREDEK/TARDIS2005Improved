@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/lock"
+	"$envmap" "models/doctorwho1200/coral/environment"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$nodecal" "1"
+	"$surfaceprop" "Metal"
+}

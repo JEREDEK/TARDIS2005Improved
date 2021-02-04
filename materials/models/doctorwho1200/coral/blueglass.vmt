@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$translucent" 1
+	"$basetexture" "models/doctorwho1200/coral/blueglass"
+	"$envmap" "models/doctorwho1200/coral/environment"
+	"$envmaptint" "[ 0.1 0.1 0.4 ]"
+	"$model" 1
+	"$nodecal" "1"
+	"$nocull" "1"
+}

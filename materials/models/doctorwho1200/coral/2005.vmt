@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/2005"
+	"$bumpmap" "models/doctorwho1200/coral/2005n"
+	"$normalmap" "models/doctorwho1200/coral/2005n"
+	"$surfaceprop" "Wood_Solid"
+	"$nodecal" "1"
+}

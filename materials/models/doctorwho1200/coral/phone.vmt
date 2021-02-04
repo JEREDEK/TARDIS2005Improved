@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/phone"
+	"$surfaceprop" "Metal"
+	"$nodecal" "1"
+	"$nocull" "1"
+}

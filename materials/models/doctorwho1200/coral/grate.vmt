@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doctorwho1200/coral/grate"
+	"$translucent" 1
+	"$surfaceprop" "Metal"
+	"$nodecal" 1
+	"$nocull" 1
+}
