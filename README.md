@@ -1,4 +1,4 @@
-#This code has been deprecated a long time ago, please refer to Parar's version for an updated and honestly way better option.
+# This code has been deprecated a long time ago, please refer to Parar's version for an updated and honestly way better option.
 
 # TARDIS 2005 Improved
 Hey there, so happy to see you being interested in this addon! :D
