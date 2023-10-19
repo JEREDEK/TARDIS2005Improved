@@ -1,3 +1,5 @@
+#This code has been deprecated a long time ago, please refer to Parar's version for an updated and honestly way better option.
+
 # TARDIS 2005 Improved
 Hey there, so happy to see you being interested in this addon! :D
 You can freely download and modify the files here, but if you wish to use any of this code or files, please contact me first.
